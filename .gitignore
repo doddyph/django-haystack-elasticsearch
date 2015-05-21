@@ -1,0 +1,4 @@
+pyvenv
+.idea
+haystack_dj/db.sqlite3
+*.pyc
